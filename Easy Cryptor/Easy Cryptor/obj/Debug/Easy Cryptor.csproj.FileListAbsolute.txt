@@ -1,0 +1,7 @@
+E:\Sources\Easy Cryptor\Easy Cryptor\bin\Debug\Easy Cryptor.exe.config
+E:\Sources\Easy Cryptor\Easy Cryptor\bin\Debug\Easy Cryptor.exe
+E:\Sources\Easy Cryptor\Easy Cryptor\bin\Debug\Easy Cryptor.pdb
+E:\Sources\Easy Cryptor\Easy Cryptor\obj\Debug\Easy Cryptor.csprojAssemblyReference.cache
+E:\Sources\Easy Cryptor\Easy Cryptor\obj\Debug\Easy Cryptor.exe
+E:\Sources\Easy Cryptor\Easy Cryptor\obj\Debug\Easy Cryptor.pdb
+E:\Sources\Easy Cryptor\Easy Cryptor\obj\Debug\Easy Cryptor.csproj.CopyComplete
